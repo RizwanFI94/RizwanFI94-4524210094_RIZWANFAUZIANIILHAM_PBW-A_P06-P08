@@ -137,49 +137,37 @@ Implementasi dasar aplikasi manajemen perpustakaan menggunakan Laravel dan Filam
 
 Halaman login untuk masuk ke dashboard administrasi.
 
-![Login Admin](docs/images/login-admin.png)
+![Login Admin](imgp6-8/login.png)
 
 ## 2. Dashboard Admin
 
 Halaman utama untuk mengakses fitur pengelolaan perpustakaan.
 
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](imgp6-8/dashboard.png)
 
 ## 3. List Books
 
 Menampilkan daftar buku yang telah tersimpan di database.
 
-![List Books](docs/images/list-books.png)
+![List Books](imgp6-8/listbook.png)
 
-## 4. Data Books Seeder
-
-Data buku yang dibuat secara otomatis menggunakan Database Seeder dan Factory.
-
-![Books Seeder](docs/images/books-seeded.png)
-
-## 5. Form Create Book
+## 4. Form Create Book
 
 Form untuk menambahkan data buku baru.
 
-![Create Book](docs/images/create-book.png)
+![Create Book](imgp6-8/createbook.png)
 
-## 6. Fitur Pencarian Buku
+## 5. Fitur Pencarian Buku
 
 Fitur pencarian untuk menemukan buku berdasarkan judul, ISBN, atau penulis.
 
-![Search Books](docs/images/search-books.png)
+![Search Books](imgp6-8/search.png)
 
-## 7. Fitur Filter Buku
+## 6. Fitur Filter Buku
 
 Filter untuk menyaring data buku berdasarkan status, tahun terbit, dan penulis.
 
-![Filter Books](docs/images/filter-books.png)
-
-## 8. Manajemen Authors
-
-Fitur untuk mengelola data penulis, termasuk tambah, lihat, edit, dan hapus.
-
-![Authors](docs/images/list-authors.png)
+![Filter Books](imgp6-8/filter.png)
 
 ---
 
@@ -199,7 +187,7 @@ Implementasi:
 
 **Hasil Implementasi:**
 
-![Book Description](docs/images/book-description.png)
+![Book Description](imgp6-8/description.png)
 
 ## 2. Role-Based Access Control (RBAC)
 
@@ -217,17 +205,14 @@ Implementasi:
 - Membuat BookPolicy.
 - Mengatur izin akses berdasarkan role pengguna.
 
-### Admin
+### Username dan Password
 
-![Admin Role](docs/images/role-admin.png)
+![User Role](imgp6-8/role.png)
 
-### Staff
+### Akses
 
-![Staff Role](docs/images/role-staff.png)
+![accses Role](imgp6-8/aksesrole.png)
 
-### Viewer
-
-![Viewer Role](docs/images/role-viewer.png)
 
 ## 3. Dashboard Widget
 
@@ -242,11 +227,7 @@ Widget yang ditampilkan:
 
 **Dashboard Statistics:**
 
-![Dashboard Statistics](docs/images/dashboard-statistics.png)
-
-**Book Status Chart:**
-
-![Book Status Chart](docs/images/book-status-chart.png)
+![Dashboard Statistics](imgp6-8/dashboard.png)
 
 ## 4. Kategori Buku
 
@@ -263,11 +244,11 @@ Implementasi:
 
 **List Categories:**
 
-![List Categories](docs/images/list-categories.png)
+![List Categories](imgp6-8/category.png)
 
 **Form Kategori Buku:**
 
-![Book Categories](docs/images/book-categories.png)
+![Book Categories](imgp6-8/listcategory.png)
 
 ---
 
@@ -287,7 +268,7 @@ Pada aplikasi AuthBook, database dirancang untuk mengelola informasi buku, penul
 Berikut merupakan diagram ERD dari database aplikasi AuthBook:
 
 <p align="center">
-  <img src="docs/images/erd-authbook.png" alt="Diagram ERD AuthBook" width="100%">
+  <img src="imgp6-8/ERD.png" alt="Diagram ERD AuthBook" width="100%">
 </p>
 
 <p align="center">
