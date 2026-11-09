@@ -74,7 +74,7 @@ http://127.0.0.1:8000/admin
 - [Struktur Project](#-struktur-project)
 - [Tugas 1 - Implementasi Dasar](#-tugas-1---implementasi-dasar)
 - [Tugas 2 - Kustomisasi dan Pengembangan](#-tugas-2---kustomisasi-dan-pengembangan)
-- [Tugas 3: Analisis dan Dokumentasi]
+- [Tugas 3 - Analisis dan Dokumentasi](#-tugas-3---analisis-dan-dokumentasi).
 
 ---
 
